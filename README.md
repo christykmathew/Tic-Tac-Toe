@@ -1,5 +1,5 @@
-<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8-blue"></a>
-
+<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8-blue"></a> 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christykmathew/Tic-Tac-Toe/blob/master/TicTacToe.ipynb)
 # Tic-Tac-Toe
 A simple python program for Tic-Tac-Toe. <i>Random</i> package is used by the program for computer move
 
